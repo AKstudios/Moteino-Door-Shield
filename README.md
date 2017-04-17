@@ -4,5 +4,5 @@ This is a door status shield for the Moteino. It uses a reed switch to check the
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/AKstudios/Moteino-IAQ-Shield/blob/master/Rendering-top.png" alt="CRT Sensor Board"/>
+  <img src="https://github.com/AKstudios/Moteino-Door-Shield/blob/master/Rendering.png" alt="CRT Sensor Board"/>
 </p>
