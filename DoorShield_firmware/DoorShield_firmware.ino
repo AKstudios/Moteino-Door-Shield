@@ -82,6 +82,7 @@ void sleep()
 void loop() 
 {
   sleep();
+  detachInterrupt();
   readSensors();
 
   Serial.println(_dataPacket);
@@ -95,7 +96,7 @@ void loop()
   _dataPacket[0] = (char)0;
   
   digitalWrite(LED, HIGH);
-  delay(10);
+  delay(5);
   digitalWrite(LED, LOW);
 }
 
